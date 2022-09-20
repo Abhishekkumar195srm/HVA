@@ -1,33 +1,33 @@
 body{
-    background-color:rgb(243, 235, 237);
+    background-color:black;
 }
 table{
-    margin:110px 50px 30px 500px;
-    background-color: rgb(47, 70, 47);
+    margin:110px 5px 3px 5px;
+    background-color: gray;
     
 }
 table,td {
-        border: 3px solid black;
+        border: 30px black;
         text-align: center;
      }
 td{
-    height:60px;
-    width:60px;
+    height:100px;
+    width:100px;
     
 }
 #calc{
- width: 250px;
-border: 3px solid black;
-border-radius: 3px;
+ width: 400px;
+border: 3px solid ;
+border-radius: 30px;
 padding: 20px;
 margin: auto;
 }
 button{
-    font-size:20px;
-    height:40px;
-    width:40px;
-}
+    font-size:40px;
+    height:60px;
+    width:60px;
 
+}
 
 @media only screen and (max-width: 600px) {
 table{
@@ -40,7 +40,7 @@ table{
     margin-left:180px;
 }
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1655px) {
 table{
     
     margin-left:190px;
